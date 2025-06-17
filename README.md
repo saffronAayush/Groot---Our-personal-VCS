@@ -17,7 +17,7 @@
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/saffronAayush/Groot---Our-personal-VCS
 ```
 
 ### Step 2: Navigate to the Project Directory and Install Dependencies
