@@ -23,7 +23,7 @@ git clone https://github.com/saffronAayush/Groot---Our-personal-VCS
 ### Step 2: Navigate to the Project Directory and Install Dependencies
 
 ```bash
-cd groot
+cd Groot---Our-personal-VCS
 npm install
 ```
 
